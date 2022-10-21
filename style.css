@@ -1,0 +1,45 @@
+section{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+body{
+    background-color: #111827;
+    color: white;
+    height: 100%;
+}
+img {
+    border-radius: 5px;
+    }
+
+.title{
+    text-align:center;
+}
+.subtitle{
+    text-align: center;
+}
+
+.primary {
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #18e990;
+    color: white;
+}
+
+.secundary {
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #cc0000;
+    color: white;
+}
+
+.inputt {
+    border: none;
+    padding: 15px 2px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
